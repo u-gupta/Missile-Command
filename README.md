@@ -3,8 +3,8 @@
 A Java based clone of the classic game missile command designed in Processing.
 
 Compile Instructions:
-- Put the file in a folder called Missile Command
-- Open the missile command file using processing
+- Put the file in a folder called "MissileCommand"
+- Open the "MissileCommand.pde" file using processing
 - Execute the program to start the game.
 
 Objective:
